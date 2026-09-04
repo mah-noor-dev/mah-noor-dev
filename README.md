@@ -4,7 +4,6 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mah-n)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahnoorsaleem0001@gmail.com)
 
@@ -88,10 +87,6 @@ Computer Science undergraduate (6th semester, CGPA 3.98/4.00) at COMSATS Univers
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=mah-noor-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-noor-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mah-noor-dev&theme=radical&hide_border=true&background=0d1117" />
 </div>
 
 <br>

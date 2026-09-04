@@ -1,60 +1,99 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Mah%20Noor&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20%7C%20ML%20Enthusiast%20%7C%20CS%20Student&descSize=18&descAlignY=58)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=MAH%20NOOR&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%94%20React%20%C2%B7%20Node.js%20%C2%B7%20MongoDB%20%C2%B7%20Flutter&descSize=15&descAlignY=62&animation=fadeIn" width="100%"/>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mah-n)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahnoorsaleem0001@gmail.com)
 
 </div>
 
-### 👩‍💻 About Me
+<br>
 
-- 🎓 BS Computer Science student at **COMSATS University Islamabad, Sahiwal Campus** (6th Semester) | CGPA: **3.98/4.00**
-- 💻 Full-Stack Developer — **React, Node.js, MongoDB, Flutter**
-- 🤖 Machine Learning & Computer Vision enthusiast
-- 🌱 Currently sharpening skills across the full stack and applied ML
-- 📫 Reach me at: **mahnoorsaleem0001@gmail.com**
+## Profile
+
+Computer Science undergraduate (6th semester, CGPA 3.98/4.00) at COMSATS University Islamabad, Sahiwal Campus. I build full-stack web applications on the MERN stack and cross-platform mobile apps in Flutter, with a growing focus on applied machine learning and computer vision.
 
 <br>
 
-### 🛠️ Tech Stack
+## Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,flutter,dart,python,cpp,mysql,git,figma&theme=dark" />
+
+</div>
 
 <br>
 
-### 🚀 Featured Projects
+## Selected Work
 
-| Project | Description |
-|---|---|
-| 🏋️ **InShape AI: Real-Time Fitness Coach** | Flutter app with MediaPipe Pose for live form correction at 30+ FPS, sub-100ms latency |
-| ☕ **AEM Cafe Website** | Full-stack ordering app — React.js, Node.js/Express.js, MongoDB, auth + full CRUD |
-| 🏠 [Multimodal Housing Price Prediction](https://github.com/mah-noor-dev/Multimodal_HousingPricePrediction) | CNN-extracted image features fused with tabular data — ~92% R² on the Kaggle Seattle housing dataset |
-| 🖐️ **AI Sign Language Interpreter** | Real-time hand gesture recognition mapping webcam input to language tokens |
-| 🎨 **Collaborative Canvas Editor** | Real-time multi-user drawing app with WebSocket-based state sync |
-| 📰 **BERT News Topic Classifier** | Fine-tuned BERT on AG News, deployed via Streamlit for live inference |
-| 🔐 [Secure File System](https://github.com/mah-noor-dev/Secure-File-System) | Python toolkit to encrypt/decrypt files using standard ciphers |
-| 🗺️ [Shortest Path Project](https://github.com/mah-noor-dev/Shortest-Path-Project) | Dijkstra's algorithm in C++ with Python-based visual animations |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**InShape AI — Real-Time Fitness Coach**
+<br>Flutter · MediaPipe · TensorFlow
+<br>Live pose tracking with joint-angle correction feedback, running at 30+ FPS with sub-100ms latency.
+
+</td>
+<td width="50%" valign="top">
+
+**AEM Cafe — Full-Stack Ordering App**
+<br>React · Node.js · Express · MongoDB
+<br>Complete ordering platform with authentication, RESTful APIs, and full CRUD across the stack.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Multimodal Housing Price Prediction**
+<br>Python · TensorFlow · CNN
+<br>Fused image and tabular features in one regression pipeline — ~92% R² on the Seattle housing dataset.
+
+</td>
+<td width="50%" valign="top">
+
+**AI Sign Language Interpreter**
+<br>Python · OpenCV · MediaPipe
+<br>Real-time gesture recognition mapping webcam input to language tokens for accessibility.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**BERT News Topic Classifier**
+<br>Python · Hugging Face · Streamlit
+<br>Fine-tuned BERT on AG News for 4-class classification, deployed for live inference.
+
+</td>
+<td width="50%" valign="top">
+
+**Collaborative Canvas Editor**
+<br>JavaScript · WebSockets
+<br>Real-time multi-user drawing app with synchronized canvas state across sessions.
+
+</td>
+</tr>
+</table>
 
 <br>
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mah-noor-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-noor-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mah-noor-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-noor-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mah-noor-dev&theme=radical&hide_border=true&background=0d1117" />
 </div>
 
 <br>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=mah-noor-dev&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>

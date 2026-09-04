@@ -81,14 +81,3 @@ Computer Science undergraduate (6th semester, CGPA 3.98/4.00) at COMSATS Univers
 </table>
 
 <br>
-
-## GitHub Stats
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mah-noor-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mah-noor-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
